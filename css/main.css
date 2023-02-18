@@ -55,37 +55,36 @@ body {
 }
 
 .drop-zone {
-	width: 49.5%;
-  height: 49.5%;
-  border: thin dashed white;
-  float: left;
-	position: relative;
+width: 49.9%;
+height: 49.9%;
+float: left;
+position: relative;
 }
 
 .drop-zone img {
 	position: absolute;
-	width: 95% !important;
+	width: 99% !important;
 	float: none;
 }
 
 .tl img {
-	right: 0;
-	bottom: 0;
+	left: 0.5;
+	bottom: 0.5;
 }
 
 .tr img {
-	left: 0;
-	bottom: 0;
+	right: 0.5;
+	bottom: 0.5;
 }
 
 .bl img {
-	right: 0;
-	top: 0;
+	left: 0.5;
+	top: 0.5;
 }
 
 .br img {
-	left: 0;
-	top: 0;
+	right: 0.5;
+	top: 0.5;
 }
 
 
